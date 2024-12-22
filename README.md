@@ -1,8 +1,57 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Todo application built with React and Vite, featuring functionalities like adding, editing, deleting, and marking tasks.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Add tasks with ease.  
+- Edit tasks dynamically.  
+- Delete unwanted tasks.  
+- Mark tasks as completed.  
+- Responsive UI using Tailwind CSS.  
+
+---
+
+## Prerequisites
+
+Before starting, ensure you have the following installed:
+
+- **Node.js** (v14 or above)  
+- **npm** or **yarn**  
+- **Git**  
+
+---
+
+## Installation
+
+Follow these steps to set up the project:
+
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/tusharcrypto/TODO_Assignment.git
+   ```
+
+2. **Navigate to the Project Directory**:  
+   ```bash
+   cd TODO_Assignment
+   ```
+
+3. **Install Dependencies**:  
+   Using npm:  
+   ```bash
+   npm install
+   ```
+
+---
+
+## Technologies Used
+
+1. **React**: Frontend framework for building user interfaces.  
+2. **Vite**: Lightning-fast build tool.  
+3. **Tailwind CSS**: Utility-first CSS framework for responsive design.  
+4. **React Icons**: For beautifully styled icons.  
+
+--- 
+
